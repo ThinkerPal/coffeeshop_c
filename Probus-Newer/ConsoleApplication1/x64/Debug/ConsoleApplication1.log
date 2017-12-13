@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+e:\pro\probus\consoleapplication1\consoleapplication1.cpp(20): warning C4273: 'GetProductInfo': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\sysinfoapi.h(531): note: see previous definition of 'GetProductInfo'
+e:\pro\probus\consoleapplication1\consoleapplication1.cpp(68): error C2660: 'GetProductInfo': function does not take 1 arguments
